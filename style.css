@@ -191,5 +191,6 @@ p.week-days {
 }
 
 .code-source-link {
-  margin: 0 auto;
+  position: relative;
+  margin-left: 50px;
 }
