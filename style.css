@@ -189,3 +189,7 @@ p.week-days {
   display: inline-block;
   text-align: center;
 }
+
+.code-source-link {
+  margin: 0 auto;
+}
